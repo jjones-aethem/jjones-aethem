@@ -1,5 +1,5 @@
 
-<img src ="./jjli-cover.jpg">
+<img src ="./jj-aethem-jjli2.jpg">
 
 ```yaml
 name: J Jones
