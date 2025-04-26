@@ -29,9 +29,9 @@ Here are some of the tools I use regularly:
 
 ## <span style="color:#F472B6">📊 GitHub Stats</span>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjones-aethem&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jjones-aethem&layout=compact&theme=radical)
 
 ---
 
