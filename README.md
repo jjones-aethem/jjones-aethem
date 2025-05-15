@@ -1,8 +1,8 @@
 
-<img src ="./jjli3.jpg">
+<img src ="./jjli25.jpg">
 
 ```yaml
-name: J Jones
+name: Jay Jones
 location: Austin, Texas
 current_title: Multi-Disciplined Engineer
 company: Aethem, available for contract, long-term, and hire.
